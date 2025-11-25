@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="29.0.3">
   <diagram name="Página-1" id="NzQrb-hWLGsL48VjR6t-">
-    <mxGraphModel dx="2738" dy="2353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2150" dy="1989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -86,7 +86,7 @@
           <mxGeometry x="790" y="190" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0th2tB-n75_wxNTp7mMB-40" value="criador_campanha" style="whiteSpace=wrap;html=1;rounded=0;fontSize=15;fontStyle=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
-          <mxGeometry x="970" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="970" y="200" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
